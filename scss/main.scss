@@ -145,7 +145,7 @@ main{
             background: $secondar-color;
             color:set-text-color($secondar-color);
             span{
-                color:set-text-color($secondar-color);color:
+                color:set-text-color($secondar-color);
             }
         }
     }
@@ -184,4 +184,5 @@ main{
     color:set-text-color($primary-color);
     height:60px;
 }
+
 @import'mobile';
